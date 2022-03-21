@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Testmaster01_Test.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FOLDERDATASCRIPT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\QAprojects_TFS_data\Testmaster01_Test\DataScripts\</Value>
+    </Setting>
+    <Setting Name="SCRIPTFOLDER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\GitHub\ShapeBlue_Testing\ShapeBlue_Testing\Testmaster01_Test\bin\Debug\</Value>
+    </Setting>
+    <Setting Name="SCRIPTFILE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">data.csv</Value>
+    </Setting>
+    <Setting Name="FOLDERFILESCRIPT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TESTMASTER01R01.csv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

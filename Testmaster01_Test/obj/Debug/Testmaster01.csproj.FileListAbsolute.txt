@@ -1,0 +1,6 @@
+C:\GitHub\MalinkoDatasource_Testing\MalinkoDatasource_Testing\Testmaster01\bin\Debug\Testmaster01.dll
+C:\GitHub\MalinkoDatasource_Testing\MalinkoDatasource_Testing\Testmaster01\bin\Debug\Testmaster01.pdb
+C:\GitHub\MalinkoDatasource_Testing\MalinkoDatasource_Testing\Testmaster01\obj\Debug\Testmaster01.csprojAssemblyReference.cache
+C:\GitHub\MalinkoDatasource_Testing\MalinkoDatasource_Testing\Testmaster01\obj\Debug\Testmaster01.csproj.CoreCompileInputs.cache
+C:\GitHub\MalinkoDatasource_Testing\MalinkoDatasource_Testing\Testmaster01\obj\Debug\Testmaster01.dll
+C:\GitHub\MalinkoDatasource_Testing\MalinkoDatasource_Testing\Testmaster01\obj\Debug\Testmaster01.pdb
